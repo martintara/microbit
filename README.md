@@ -40,3 +40,5 @@ git submodule update --init --recursive
 
 # Template uses 
 * Ada language server for VS Code (https://github.com/AdaCore/ada_language_server/blob/master/README.md#vs-code-extension)
+
+bla bla bla
